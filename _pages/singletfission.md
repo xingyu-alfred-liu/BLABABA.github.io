@@ -3,6 +3,8 @@ layout: archive
 permalink: /singlet-fission/
 title: "Searching Singlet Fission Materials with Machine Learning"
 author_profile: true
+header: 
+    image: "/images/iloveMichelle.png"
 ---
 
 {% include base_path %}
