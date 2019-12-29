@@ -4,7 +4,7 @@ permalink: /singlet-fission/
 title: "Searching Singlet Fission Materials with Machine Learning"
 author_profile: true
 header: 
-    image: "/image/iloveMichelle.png"
+    image: "/images/iloveMichelle.png"
 ---
 
 {% include base_path %}
