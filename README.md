@@ -1,2 +1,2 @@
-# DjangoSite
-learning how to use Django
+# Portfolio
+Materials Science / Machine Learning
