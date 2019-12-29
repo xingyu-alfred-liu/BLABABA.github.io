@@ -2,8 +2,8 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Singlet Fission"
-    url: /singlet-fission/
+  # - title: "Singlet Fission"
+  #   url: /singlet-fission/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
