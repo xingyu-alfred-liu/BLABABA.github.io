@@ -5,4 +5,9 @@ header:
     image: "/images/Alfred_04_circle.png"
 ---
 
-I'm a Ph.D. student at the Materials Science Department of Carnegie Mellon University. 
+##WHO
+My name is Xingyu (Alfred) Liu, a Ph.D. student at the Materials Science Department of Carnegie Mellon University.  
+
+##WHAT
+I do ...
+####Singlet Fission
