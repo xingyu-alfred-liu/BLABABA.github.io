@@ -1,8 +1,8 @@
 ---
 title: "About"
 permalink: /about/
-header: 
-    image: "/images/Alfred_04_circle.png"
+excerpt: "About me..."
+toc: true
 ---
 
 ##WHO
