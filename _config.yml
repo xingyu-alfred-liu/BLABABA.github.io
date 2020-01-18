@@ -111,7 +111,7 @@ author:
   avatar           : "/images/Alfred_04_circle.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Materials & Data Science Portfolio"
   location         : "Pittsburgh, PA"
-  email            : "xingyu.alfred.liu@gmail.com"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
