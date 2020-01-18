@@ -296,11 +296,7 @@ defaults:
   # _pages
   - scope:
       path: ""
-      type: pages
+      type: splash
     values:
       layout: single
-      author_profile: false
-      read_time: true
-      comments: # true
-      share: true
-      related: true
+      author_profile: true

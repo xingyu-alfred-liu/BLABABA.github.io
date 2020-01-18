@@ -2,12 +2,11 @@
 permalink: /about/
 title: "About"
 excerpt: "General Description of Myself"
-toc: true
 ---
 
-##WHO
+## WHO  
 My name is Xingyu (Alfred) Liu, a Ph.D. student at the Materials Science Department of Carnegie Mellon University.  
 
-##WHAT
-I do ...
+## WHAT  
+I do ...  
 ####Singlet Fission
