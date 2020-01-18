@@ -1,7 +1,7 @@
 ---
-title: "About"
 permalink: /about/
-excerpt: "About me..."
+title: "About"
+excerpt: "General Description of Myself"
 toc: true
 ---
 
