@@ -298,5 +298,9 @@ defaults:
       path: ""
       type: pages
     values:
-      layouts: double 
+      layouts: single
       author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
