@@ -1,7 +1,7 @@
 ---
-permalink: /project/
-title: "PROJECT"
-excerpt: "My projects"
+permalink: /teaching/
+title: "Teaching"
+excerpt: "Teaching"
 ---
 
 ## Projects  

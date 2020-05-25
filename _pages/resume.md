@@ -1,7 +1,7 @@
 ---
-permalink: /cv/
-title: "CV"
-excerpt: "My CV"
+permalink: /resume/
+title: "Resume"
+excerpt: "Resume"
 ---
 
 ## Name  

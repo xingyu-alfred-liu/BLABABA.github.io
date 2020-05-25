@@ -1,6 +1,6 @@
 ---
 permalink: /project/
-title: "PROJECT"
+title: "Project"
 excerpt: "My projects"
 ---
 

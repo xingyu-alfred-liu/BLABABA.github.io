@@ -1,6 +1,6 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /havingfun/
+title: "Having Fun"
 excerpt: "General Description of Myself"
 ---
 

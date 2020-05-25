@@ -1,6 +1,6 @@
 ---
-permalink: /project/
-title: "PROJECT"
+permalink: /research/
+title: "Research"
 excerpt: "My projects"
 ---
 
