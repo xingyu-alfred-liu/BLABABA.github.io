@@ -1,5 +1,6 @@
 ---
 permalink: /resume/
+title: "XINGYU (ALFRED) LIU"
 ---
 
 ## EDUCATION
