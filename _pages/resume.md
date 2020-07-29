@@ -1,7 +1,5 @@
 ---
 permalink: /resume/
-title: "Resume"
-excerpt: "Resume"
 ---
 
 ## EDUCATION
