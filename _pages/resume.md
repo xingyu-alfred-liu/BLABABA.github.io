@@ -5,7 +5,6 @@ excerpt: "Resume"
 ---
 
 ## EDUCATION
-*****
 **Carnegie Mellon University**  
 Doctor of Philosophy in Materials Science & Engineering - GPA: 3.87/4.0  
 Loation: Pittsburgh, PA   
@@ -25,7 +24,6 @@ Loation: Pittsburgh, PA
 Graduation Date: December 2017  
 
 ## GRADUATE RESEARCH
-*****
 **Many-Body Perturbation Theory Meets Machine Learning to Discover Singlet Fission Materials**  
 Carnegie Mellon University, September 2018 – Present  
 
@@ -38,7 +36,6 @@ Carnegie Mellon University, September 2018 – Present
 + Collaborated with staff from Intel and Argonne National Laboratory to implement this workflow and prepared to port it into the next generation supercomputer AURORA.  
 
 ## ACADEMIC PROJECTS
-*****
 **Enhance the Band Gap Classifier for Organic Molecular Crystals with Batch Mode Active Learning**  
 Carnegie Mellon University, April 2020 – June 2020  
 
@@ -52,7 +49,6 @@ Wuhan University of Technology, October 2015 – June 2016
 + Photoluminescence spectra shows the strongest intensity with 0.45M CH3NH3Cl, indicating fewer traps and defects within the perovskite crystal, which is consistent with the power conversion efficiency peak.  
 
 ## TEACHING EXPERIENCE
-*****
 **Course Assistant (Fall 2017)** - 24-623 Molecular Simulation of Materials, CMU   
 
 + Hosted office hours and graded homework.  
@@ -63,7 +59,6 @@ Wuhan University of Technology, October 2015 – June 2016
 + Collaborated with the lecturer and decided the progress of the course.  
 
 ## SKILLS
-****
 Python, PyTorch, Scikit-Learn, Matplotlib, C++, Data Analysis, Microsoft Office  
 
 ## WORK EXPERIENCE
@@ -77,13 +72,11 @@ Position: Quality Control Intern
 + Proposed practical methods to improve the product quality.  
 
 ## AWARDS & HONORS
-****
 
 + Department of Materials Science & Engineering MS Research Excellence Award, CMU, June 2017.  
 + First Prize in Hubei Province College Student Art Festival --- Instrumental Music, Hubei Province, June 2015.  
 
 ## EXTRA-CURRICULAR
-****
 **Carnegie Mellon Graduate Consulting Club** - 2018-2019  
 Position: VP of Case Competition  
 
@@ -100,7 +93,6 @@ Position: Head of Second Violin Group
 + Coordinated the commercial performances and competed in art festival.  
 
 ## PRESENTATIONS
-****
 
 + Liu, Xingyu. "Acene and Acene-like Derivatives as Intermolecular Singlet Fission Candidates." *GW goes large scale (GW-XL) Workshop*, Helsinki, Finland, 10 June 2020. Conference Presentation.  
 + Liu, Xingyu. "On the Possibility of Singlet Fission in Crystalline Quaterrylene." *Hands-on DFT and Beyond: High Throughput Screening and Big-Data Analytics, Towards Exascale Computational Materials Science*, Barcelona, Spain, 27 August 2019. Poster Presentation.  
@@ -109,7 +101,6 @@ Position: Head of Second Violin Group
 
 
 ## PUBLICATIONS
-****
 
 + Longbing Qu, Yunlong Zhao, Aamir Minhas Khan, Chunhua Han, Kalele Mulonda Hercule, Mengyu Yan, **Xingyu Liu** et al. Interwoven Three-Dimensional Architecture of Cobalt Oxide Nanobrush-Graphene@NixCo2xOH6x for High Performance Supercapacitors. *Nano Lett.* 15, 3, 2037–2044, 2015.  
 + Huirong Jiang, **Xingyu Liu** et al. Alleviate the J–V hysteresis of carbon-based perovskite solar cells via introducing additional methylammonium chloride into MAPbI3 precursor. *RSC Adv.* 8, 35157-35161, 2018.  
