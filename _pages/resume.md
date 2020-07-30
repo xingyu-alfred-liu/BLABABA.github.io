@@ -3,7 +3,7 @@ permalink: /resume/
 title: "XINGYU (ALFRED) LIU"
 ---
 
-Click [here](BLABABA.github.io/files/resume_AL_2020.pdf) to download my resume. 
+Click [here](https://BLABABA.github.io/files/resume_AL_2020.pdf) to download my resume. 
 ## EDUCATION
 **Carnegie Mellon University**  
 Doctor of Philosophy in Materials Science & Engineering  
