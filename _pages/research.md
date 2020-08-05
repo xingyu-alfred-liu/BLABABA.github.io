@@ -4,5 +4,4 @@ title: "Research"
 excerpt: "My projects"
 ---
 
-## Projects  
-blablabla
+## Looking for Singlet Fission Candidates with Machine Learning and Hierarchical Database Screening  

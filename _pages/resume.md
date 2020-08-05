@@ -24,8 +24,8 @@ Graduation Date: December 2017
 **Wuhan Unversity of Technology**  
 Bachelor of Science in Materials Science & Engineering  
 GPA: 91.11/100  
-Loation: Pittsburgh, PA   
-Graduation Date: December 2017  
+Loation: Wuhan, Hubei Province, China   
+Graduation Date: June 2016  
 
 ## GRADUATE RESEARCH
 **Many-Body Perturbation Theory Meets Machine Learning to Discover Singlet Fission Materials**  
