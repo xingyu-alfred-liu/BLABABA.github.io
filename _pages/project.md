@@ -16,4 +16,6 @@ The organic–inorganic hybrid lead halide perovskite materials has been widely 
 
 ![Image of SF process](https://BLABABA.github.io/images/hysterisis.png)  
 
-The hysteretic phenomenon commonly exists in the J–V curves of perovskite solar cells with different structures, especially for carbon-based mesoscopic perovskite solar cells without hole-conductor. By adding moderate amounts of methylammonium chloride (MACl) into MAPbI3 perovskite precursor, we found the J–V hysteresis of carbon-based perovskite solar cells could be significantly alleviated and the crystallinity of MAPbI3 perovskite could also be influenced.
+The hysteretic phenomenon commonly exists in the J–V curves of perovskite solar cells with different structures, especially for carbon-based mesoscopic perovskite solar cells without hole-conductor. By adding moderate amounts of methylammonium chloride (MACl) into MAPbI3 perovskite precursor, we found the J–V hysteresis of carbon-based perovskite solar cells could be significantly alleviated and the crystallinity of MAPbI3 perovskite could also be influenced. As shown in the figure above, the J-V curve for MACl-added perovskite solar cell shows almost no hysteresis and presents significantly higher power conversion efficiency. 
+
+Click [here](https://pubs.rsc.org/ko/content/articlehtml/2018/ra/c8ra04347g) for the full paper.  
