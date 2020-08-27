@@ -21,6 +21,19 @@ The comparison between _Relevance, Density and Diversity_ and _Fisher Informatio
 
 ## Phenylated and Pyrene-Fused Acenes Derivatives as Singlet Fission Candidate   
 
+Singlet fission (SF) is a photophysical process considered as a possible scheme to bypass the Shockley–Queisser limit by generating two triplet-state excitons from one high-energy photon. Polyacene crystals, such as tetracene and pentacene, have shown outstanding SF performance both theoretically and experimentally. However, their instability prevents them from being utilized in SF-based photovoltaic devices. Several strategies were attepmted to stabilize this family of compounds. One approach is attaching side groups, such as phenyl side groups. The other approach was proposed recently by fusing pyrene terminals. In search of practical SF candidates, a series of phenylated acenes and pyrene-fused acenes were studied using many-body perturbation theory within the GW approximation and Bethe–Salpeter equation.  
+
+![Image of phenylated_acene](https://BLABABA.github.io/images/phenylated_acene_struct.png)  
+
+Various packing motif were generated and hence lead to various electronic properties, such as different frontier-orbital induced band dispersion. Details can be found in this [paper](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.8b12549). 
+
+![Image of pfa](https://BLABABA.github.io/images/pfa_struct.png)  
+
+Pyrene-fused acenes were observed with different packings as well.  
+One issue pointed out in this [paper](https://iopscience.iop.org/article/10.1088/1361-648X/ab699e/meta) was about the convergence of exciton wave-functions with respect to fine k-point grid when generating mean-field wave-functions. A threshold was proposed to confirm the convergence. 
+
+![Image of exciton_wfn](https://BLABABA.github.io/images/pfa_exciton_wfn_convergence.png)  
+
 ## Fully-Printable Perovskite Solar Cell   
 The organic–inorganic hybrid lead halide perovskite materials has been widely implemented into solar cells as the perovskite light absorbers. The highest power cponversion efficiency of this type of device has reached 22.7%, far exceeding that of the other emerging photovoltaic technologies such as dye-sensitized solar cells (DSSCs). Most perovskite solar cell devices still need Au or Ag as their counter electrodes, which are commonly deposited by thermal evaporation. However, the usage of noble metals is not favorable for commercialization. In this regard, carbon-based perovskite solar cell, which employs carbon as the counter electrode, has been introduced. Additionally, the carbon-based solar cell device can be fabricated via fully-printing procedure, which is propitious for massive production.  
 
