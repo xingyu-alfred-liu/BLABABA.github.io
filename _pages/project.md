@@ -4,10 +4,23 @@ title: "Project"
 excerpt: "My projects"
 ---
 
-## Many-Body Perturbation Theory Meets Machine Learning to Discover Singlet Fission Materials  
+## Feature Reduction for CIFAR-100 (Python, Tensorflow, Scikit-Learn)  
+
+![Image of CIFAR project](https://BLABABA.github.io/images/mpb_pipeline.png)  
+
+The project pipeline is shown in the figure above, the CIFAR-100 images was first fed into a CNN for image classification. Then the corresponding image representations were extracted from three layers: input layer, flatten layer, and the fully connected layer. Then dimensionality reduction were performed with these extracted features to further reduce the dimensionality to a 2-dimensional feature space. To confirm the best hyperparameters settings, and to compare the performance of PCA, t-SNE, and isomap, logistic regression was applied to these reduced features to train a classification model. With the quantitative classification accuracy, the optimum hyperparameter set was confirmed. 
+
+Logistic regression was applied to generate quantitative comparisons among the three dimensionality reduction methods PCA, t-SNE, and isomap. The metric which yielded the highest classification accuracy from logistic regression is confirmed as the most suitable feature reduction for CIFAR-100 dataset. Three layers, the input image, flattened layer after the convolutional processing, and the fully connected layer before output were chosen because we would like to compare the improvement of the feature extraction after different treatment. This improvement among CNN layers can be detected by visualization of the reduced features and the logistic regression model performances.
+
+![Image of CIFAR project2](https://BLABABA.github.io/images/pca_tsne_isomap.png)  
+
+Among the three metrics, t-SNE gives the best performance. For the input CIFAR-100 images, PCA, t-SNE, and isomap showed almost the same effect as the classification accuracy are almost identical. After the convolutional image processing, t-SNE showed better performance than PCA and isomap. The difference between PCA and isomap at this layer is still merely observable. For the FC layer, the t-SNE showed much better results than PCA and isomap. In this layer, isomap starts to generate more representable features than PCA, but not comparable to t-SNE. 
+
+The visualizations of the reduced FC features with PCA, t-SNE, and isomap are shown in Figure \ref{fig:pca_tsne_isomap}. Results of PCA showed that different classes are still mingled together. A bit better than that of PCA, isomap tends to separate different classes, but not very obvious. t-SNE clearly clustered some classes, such as the light yellow, red, and purple point in the figure. This also explains why t-SNE showed the highest accuracy. 
 
 
 ## Enhance the Band Gap Classifier for Organic Molecular Crystals with Batch Mode Active Learning  
+
 Machine learning techniques routinely demand large amount of annotated data points to formulate a decent model. However, data annotation such as density functional theory (DFT) calculation, a physics framework computing the bandgap of atomic systems using atomic element and coordinate information as input, requires extensive computer time. In order to maximize the efficiency of obtaining a classifier with decent performance with less demanded computing resources, active learning (AL) is designed to select the next batch of unlabeled data points. Classical AL strategies request single annotation in each iteration, however, this could be inefficient for DFT calculations where high-throughput computing with thousands of CPUs running in parallel can be performed. Considering both the budget of computing resources and expected improvement of classifier performance, we want to study if the batch mode AL (BMAL) could maximize the efficiency of information gain for bandgap classification problem.
 
 AL, as an effective tool with great potential, has been widely studied and applied into various areas in the past two decades. Multiple practical challenges about active learning have been listed, such as how to prevent erroneous annotation from being added to training data, and how to consider the various labeling costs. Limited by available data, we will only discuss different methods about query in batch. Different general ideas were proposed about BMAL. Xu et al. indicates the approach where the next batch is constructed such that unlabeled data are selected from high-density region. In the mean time, the diversity among the next batch is maintained at an user-specified level. On the other hand, Hoi et al. utilizes Fisher information matrix to quantify the uncertainty of the classification model. Acquiring the next batch of unlabeled structures simply asks the next batch yielding the maximized reduction of Fisher information matrix.
