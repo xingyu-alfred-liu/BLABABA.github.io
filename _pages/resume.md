@@ -1,10 +1,13 @@
 ---
-permalink: /resume/
+permalink: /resume/  
+fontsize:12  
 title: "XINGYU (ALFRED) LIU"
 ---
 
-Click [here](https://BLABABA.github.io/files/resume_AL_2020.pdf) to download my resume. 
-## EDUCATION
+* Click [here](https://BLABABA.github.io/files/resume_ML.pdf) to download my Materials & Machine Learning resume.  
+* Click [here](https://BLABABA.github.io/files/resume_consulting.pdf) to download my Business format resume.  
+
+#### EDUCATION
 **Carnegie Mellon University**  
 Doctor of Philosophy in Materials Science & Engineering  
 GPA: 3.87/4.0  
@@ -27,7 +30,7 @@ GPA: 91.11/100
 Loation: Wuhan, Hubei Province, China   
 Graduation Date: June 2016  
 
-## GRADUATE RESEARCH
+#### GRADUATE RESEARCH
 **Many-Body Perturbation Theory Meets Machine Learning to Discover Singlet Fission Materials**  
 Carnegie Mellon University, September 2018 – Present  
 
@@ -39,7 +42,7 @@ Carnegie Mellon University, September 2018 – Present
 + Identified multiple singlet fission candidate materials via screening public database. Published multiple papers.  
 + Collaborated with staff from Intel and Argonne National Laboratory to implement this workflow and prepared to port it into the next generation supercomputer AURORA.  
 
-## ACADEMIC PROJECTS
+#### ACADEMIC PROJECTS
 **Enhance the Band Gap Classifier for Organic Molecular Crystals with Batch Mode Active Learning**  
 Carnegie Mellon University, April 2020 – June 2020  
 
@@ -52,7 +55,7 @@ Wuhan University of Technology, October 2015 – June 2016
 + Ran several tests and confirmed the best ration of CH3NH3Cl into the perovskite precursor.  
 + Photoluminescence spectra shows the strongest intensity with 0.45M CH3NH3Cl, indicating fewer traps and defects within the perovskite crystal, which is consistent with the power conversion efficiency peak.  
 
-## TEACHING EXPERIENCE
+#### TEACHING EXPERIENCE
 **Course Assistant (Fall 2017)**  
 24-623 Molecular Simulation of Materials, CMU   
 
@@ -64,28 +67,33 @@ Wuhan University of Technology, October 2015 – June 2016
 + Ran bi-weekly recitations, covered the omissions from the lectures.  
 + Collaborated with the lecturer and decided the progress of the course.  
 
-## SKILLS
+#### SKILLS
 Python, PyTorch, Scikit-Learn, Matplotlib, C++, Data Analysis, Microsoft Office  
 
-## WORK EXPERIENCE
-****
+#### WORK EXPERIENCE
+**Invictus BCI Inc.**  
+Machine Learning Engineer, December 2020 - January 2021  
+
++ Hand Motion Prediction with Electromyography Data (Python, PyTorch, AWS)
++ Explored and applied feature extraction to electromyography (time series electrical activity) data for hand
+motion prediction with fine-tuned LSTM, improved the accuracy by 5%.
+
 **Zhongfu Shenying Carbon Fiber Co.,Ltd.**  
-July 2015  
-Position: Quality Control Intern  
+Quality Control Intern, July 2015   
 
 + Collected carbon fiber examples from the production line and delivered it to testing center.  
 + Analyzed the testing results and drafted the testing report.  
 + Proposed practical methods to improve the product quality.  
 
-## AWARDS & HONORS
+#### AWARDS & HONORS
 
 + Department of Materials Science & Engineering MS Research Excellence Award, CMU, June 2017.  
 + First Prize in Hubei Province College Student Art Festival --- Instrumental Music, Hubei Province, June 2015.  
++ National Scholarship, China, October 2013
 
-## EXTRA-CURRICULAR
+#### EXTRA-CURRICULAR
 **Carnegie Mellon Graduate Consulting Club**  
-2018-2019  
-Position: VP of Case Competition  
+VP of Case Competition, 2018-present   
 
 + Attended executive board meeting and discussed services offered to the club members.  
 + Organized the Pittsburgh Innovation Case Competition (PICC) in 2019.  
@@ -93,14 +101,13 @@ Position: VP of Case Competition
 + Collaborated with consultants from multiple firms including McKinsey and Deloitte and asked for their support serving as the judges of PICC.  
 
 **Wuhan University of Technology Symphony Orchestra**  
-2013-2015  
-Position: Head of Second Violin Group 
+Head of Second Violin Group, 2013-2015   
  
 + Established the first university symphony orchestra with my colleagues.  
 + Organized the weekly training of second violin group and monitor the performance of my group.  
 + Coordinated the commercial performances and competed in art festival.  
 
-## PRESENTATIONS
+#### PRESENTATIONS
 
 + Liu, Xingyu. "Acene and Acene-like Derivatives as Intermolecular Singlet Fission Candidates." *GW goes large scale (GW-XL) Workshop*, Helsinki, Finland, 10 June 2020. Conference Presentation.  
 + Liu, Xingyu. "On the Possibility of Singlet Fission in Crystalline Quaterrylene." *Hands-on DFT and Beyond: High Throughput Screening and Big-Data Analytics, Towards Exascale Computational Materials Science*, Barcelona, Spain, 27 August 2019. Poster Presentation.  
@@ -108,12 +115,12 @@ Position: Head of Second Violin Group
 + Liu, Xingyu. "Phenylated Acene Derivatives as Candidates for Intermolecular Singlet Fission." *American Physics Society (APS) March Meeting*, Los Angeles, CA, 7 March 2018. Conference Presentation.  
 
 
-## PUBLICATIONS
+#### PUBLICATIONS
 
-+ Longbing Qu, Yunlong Zhao, Aamir Minhas Khan, Chunhua Han, Kalele Mulonda Hercule, Mengyu Yan, **Xingyu Liu** et al. Interwoven Three-Dimensional Architecture of Cobalt Oxide Nanobrush-Graphene@NixCo2xOH6x for High Performance Supercapacitors. [*Nano Lett.* 15, 3, 2037–2044, 2015.](https://pubs.acs.org/doi/abs/10.1021/nl504901p)  
-+ Huirong Jiang, **Xingyu Liu** et al. Alleviate the J–V hysteresis of carbon-based perovskite solar cells via introducing additional methylammonium chloride into MAPbI3 precursor. [*RSC Adv.* 8, 35157-35161, 2018.](https://pubs.rsc.org/ko/content/articlehtml/2018/ra/c8ra04347g)  
-+ Xiaopeng Wang, **Xingyu Liu** et al. On the possibility of singlet fission in crystalline quaterrylene. [*J. Chem. Phys.* 148, 184101, 2018.](https://aip.scitation.org/doi/abs/10.1063/1.5027553)  
-+ Xiaopeng Wang, **Xingyu Liu** et al. Phenylated acene derivatives as candidates for intermolecular singlet fission. [*J. Phys. Chem. C* 123, 10, 5890–5899, 2019.](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.8b12549)  
-+ Xiaopeng Wang, Rithwik Tom, **Xingyu Liu** et al. An energetics perspective on why there are so few triplet–triplet annihilation emitters. [*J. Mater. Chem. C* 1, 10.1039/d0tc00044b, 2020.](https://pubs.rsc.org/en/content/articlehtml/2020/tc/d0tc00044b)  
-+ **Xingyu Liu** et al. Pyrene-stabilized acenes as intermolecular singlet fission candidates: Importance of exciton wave function convergence. [*J. Phys. Condens. Matter.* 32(18), 2020.](https://iopscience.iop.org/article/10.1088/1361-648X/ab699e/meta)  
-
++ Longbing Qu, Yunlong Zhao, Aamir Minhas Khan, Chunhua Han, Kalele Mulonda Hercule, Mengyu Yan, **Xingyu Liu**, Wei Chen, Dandan Wang, Zhengyang Cai, Wangwang Xu, Kangning Zhao, Xiaolin Zheng, and Liqiang Mai. Interwoven Three-Dimensional Architecture of Cobalt Oxide Nanobrush-Graphene@NixCo2xOH6x for High Performance Supercapacitors. [*Nano Lett.* 15, 3, 2037–2044, 2015.](https://pubs.acs.org/doi/abs/10.1021/nl504901p)  
++ Huirong Jiang, **Xingyu Liu**  Nianyao Chai, Fuzhi Huang, Yong Peng, Jie Zhong, Qi Zhang, Zhiliang Ku and Yi-bing Cheng. Alleviate the J–V hysteresis of carbon-based perovskite solar cells via introducing additional methylammonium chloride into MAPbI3 precursor. [*RSC Adv.* 8, 35157-35161, 2018.](https://pubs.rsc.org/ko/content/articlehtml/2018/ra/c8ra04347g)  
++ Xiaopeng Wang, **Xingyu Liu**, Cameron Cook, Bohdan Schatschneider and Noa Marom. On the possibility of singlet fission in crystalline quaterrylene. [*J. Chem. Phys.* 148, 184101, 2018.](https://aip.scitation.org/doi/abs/10.1063/1.5027553)  
++ Xiaopeng Wang, **Xingyu Liu**, Rithwik Tom, Cameron Cook, Bohdan Schatschneider and Noa Marom. Phenylated acene derivatives as candidates for intermolecular singlet fission. [*J. Phys. Chem. C* 123, 10, 5890–5899, 2019.](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.8b12549)  
++ Xiaopeng Wang, Rithwik Tom, **Xingyu Liu**, Daniel N. Congreve and Noa Marom. An energetics perspective on why there are so few triplet–triplet annihilation emitters. [*J. Mater. Chem. C* 1, 10.1039/d0tc00044b, 2020.](https://pubs.rsc.org/en/content/articlehtml/2020/tc/d0tc00044b)  
++ **Xingyu Liu**, Rithwik Tom, Xiaopeng Wang, Cameron Cook, Bohdan Schatschneider and Noa Marom. Pyrene-stabilized acenes as intermolecular singlet fission candidates: Importance of exciton wave function convergence. [*J. Phys. Condens. Matter.* 32(18), 2020.](https://iopscience.iop.org/article/10.1088/1361-648X/ab699e/meta)  
++ **Xingyu Liu**, Rithwik Tom, Siyu Gao and Noa Marom, Assessing Zethrene Derivatives as Singlet Fission Candidates Based on Multiple Descriptors. [*J. Phys. Chem. C* 2020, 124, 48, 26134–26143](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.0c08160)  
