@@ -6,7 +6,7 @@ title: "XINGYU (ALFRED) LIU"
 * Click [here](https://BLABABA.github.io/files/resume_ML.pdf) to download my Materials & Machine Learning resume.  
 * Click [here](https://BLABABA.github.io/files/resume_consulting.pdf) to download my Business format resume.  
 
-#### EDUCATION
+### EDUCATION
 **Carnegie Mellon University**  
 Doctor of Philosophy in Materials Science & Engineering  
 GPA: 3.87/4.0  
@@ -41,7 +41,7 @@ Carnegie Mellon University, September 2018 – Present
 + Identified multiple singlet fission candidate materials via screening public database. Published multiple papers.  
 + Collaborated with staff from Intel and Argonne National Laboratory to implement this workflow and prepared to port it into the next generation supercomputer AURORA.  
 
-#### ACADEMIC PROJECTS
+### ACADEMIC PROJECTS
 **Enhance the Band Gap Classifier for Organic Molecular Crystals with Batch Mode Active Learning**  
 Carnegie Mellon University, April 2020 – June 2020  
 
@@ -54,7 +54,7 @@ Wuhan University of Technology, October 2015 – June 2016
 + Ran several tests and confirmed the best ration of CH3NH3Cl into the perovskite precursor.  
 + Photoluminescence spectra shows the strongest intensity with 0.45M CH3NH3Cl, indicating fewer traps and defects within the perovskite crystal, which is consistent with the power conversion efficiency peak.  
 
-#### TEACHING EXPERIENCE
+### TEACHING EXPERIENCE
 **Course Assistant (Fall 2017)**  
 24-623 Molecular Simulation of Materials, CMU   
 
@@ -66,10 +66,10 @@ Wuhan University of Technology, October 2015 – June 2016
 + Ran bi-weekly recitations, covered the omissions from the lectures.  
 + Collaborated with the lecturer and decided the progress of the course.  
 
-#### SKILLS
+### SKILLS
 Python, PyTorch, Scikit-Learn, Matplotlib, C++, Data Analysis, Microsoft Office  
 
-#### WORK EXPERIENCE
+### WORK EXPERIENCE
 **Invictus BCI Inc.**  
 Machine Learning Engineer, December 2020 - January 2021  
 
@@ -84,13 +84,13 @@ Quality Control Intern, July 2015
 + Analyzed the testing results and drafted the testing report.  
 + Proposed practical methods to improve the product quality.  
 
-#### AWARDS & HONORS
+### AWARDS & HONORS
 
 + Department of Materials Science & Engineering MS Research Excellence Award, CMU, June 2017.  
 + First Prize in Hubei Province College Student Art Festival --- Instrumental Music, Hubei Province, June 2015.  
 + National Scholarship, China, October 2013
 
-#### EXTRA-CURRICULAR
+### EXTRA-CURRICULAR
 **Carnegie Mellon Graduate Consulting Club**  
 VP of Case Competition, 2018-present   
 
@@ -106,7 +106,7 @@ Head of Second Violin Group, 2013-2015
 + Organized the weekly training of second violin group and monitor the performance of my group.  
 + Coordinated the commercial performances and competed in art festival.  
 
-#### PRESENTATIONS
+### PRESENTATIONS
 
 + Liu, Xingyu. "Acene and Acene-like Derivatives as Intermolecular Singlet Fission Candidates." *GW goes large scale (GW-XL) Workshop*, Helsinki, Finland, 10 June 2020. Conference Presentation.  
 + Liu, Xingyu. "On the Possibility of Singlet Fission in Crystalline Quaterrylene." *Hands-on DFT and Beyond: High Throughput Screening and Big-Data Analytics, Towards Exascale Computational Materials Science*, Barcelona, Spain, 27 August 2019. Poster Presentation.  
@@ -114,7 +114,7 @@ Head of Second Violin Group, 2013-2015
 + Liu, Xingyu. "Phenylated Acene Derivatives as Candidates for Intermolecular Singlet Fission." *American Physics Society (APS) March Meeting*, Los Angeles, CA, 7 March 2018. Conference Presentation.  
 
 
-#### PUBLICATIONS
+### PUBLICATIONS
 
 + Longbing Qu, Yunlong Zhao, Aamir Minhas Khan, Chunhua Han, Kalele Mulonda Hercule, Mengyu Yan, **Xingyu Liu**, Wei Chen, Dandan Wang, Zhengyang Cai, Wangwang Xu, Kangning Zhao, Xiaolin Zheng, and Liqiang Mai. Interwoven Three-Dimensional Architecture of Cobalt Oxide Nanobrush-Graphene@NixCo2xOH6x for High Performance Supercapacitors. [*Nano Lett.* 15, 3, 2037–2044, 2015.](https://pubs.acs.org/doi/abs/10.1021/nl504901p)  
 + Huirong Jiang, **Xingyu Liu**  Nianyao Chai, Fuzhi Huang, Yong Peng, Jie Zhong, Qi Zhang, Zhiliang Ku and Yi-bing Cheng. Alleviate the J–V hysteresis of carbon-based perovskite solar cells via introducing additional methylammonium chloride into MAPbI3 precursor. [*RSC Adv.* 8, 35157-35161, 2018.](https://pubs.rsc.org/ko/content/articlehtml/2018/ra/c8ra04347g)  
