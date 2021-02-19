@@ -1,6 +1,5 @@
 ---
 permalink: /resume/  
-fontsize:12  
 title: "XINGYU (ALFRED) LIU"
 ---
 
