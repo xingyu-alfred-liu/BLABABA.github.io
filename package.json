@@ -1,29 +1,30 @@
 {
-  "name": "fresh",
-  "version": "1.0.0",
-  "description": "A personal theme with a blog for Stackbit",
-  "main": "public/index.html",
+  "name": "jekyll-theme-chirpy",
+  "version": "4.0.1",
+  "description": "A minimal, sidebar, responsive web design Jekyll theme that focuses on text presentation.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
   "scripts": {
-    "build": "unibit build",
-    "develop": "unibit develop",
-    "start": "unibit develop",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stackbit-themes/fresh-unibit"
+    "url": "git+https://github.com/cotes2020/jekyll-theme-chirpy.git"
   },
-  "author": "Stackbit",
-  "license": "ISC",
+  "author": "Cotes Chung",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/stackbit-themes/fresh-unibit/issues"
+    "url": "https://github.com/cotes2020/jekyll-theme-chirpy/issues"
   },
-  "homepage": "https://docs.stackbit.com/unibit/",
+  "homepage": "https://github.com/cotes2020/jekyll-theme-chirpy#readme",
   "dependencies": {
-    "@stackbit/unibit": "~0.1.11",
-    "kind-of": "^6.0.3",
-    "lodash": "^4.17.19",
-    "minimist": "^1.2.5",
-    "nodemon": "^1.19.1"
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-insert": "^0.5.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-uglify": "^3.0.2",
+    "uglify-js": "git+https://github.com/mishoo/UglifyJS2.git#harmony"
   }
 }
