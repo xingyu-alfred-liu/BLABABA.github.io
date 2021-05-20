@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "Xingyu (Alfred) Liu"
-  avatar           : "/images/Alfred_04_circle.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/_images/Alfred_04_circle.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Passionate Cook Seasoning Materials Science with Machine Learning"
   location         : "Pittsburgh"
   email            : "xingyu.alfred.liu@gmail.com"
