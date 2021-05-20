@@ -12,16 +12,16 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Materials Science Spiced with Machine Learning"
-title_separator          : "-"
+title                    : ""
+title_separator          : ""
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Xingyu (Alfred) Liu"
-description              : "An amazing website."
-url                      : "https://xingyuliu.me" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "Materials Science & Machine Learning (MatML) Portfolio"
+url                      : "http://xingyuliu.me" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -95,17 +95,17 @@ analytics:
 # Site Author
 author:
   name             : "Xingyu (Alfred) Liu"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  avatar           : "/images/Alfred_04_circle.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Passionate Cook Seasoning Materials Science with Machine Learning"
   location         : "Pittsburgh"
   email            : "xingyu.alfred.liu@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:xingyu.alfred.liu@gmail.com"
+      url: "xingyu.alfred.liu@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "http://xingyuliu.me"
+      url: "http://blababa.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -130,10 +130,10 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/BLABABA"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
-      # url:
+      # url: 
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
