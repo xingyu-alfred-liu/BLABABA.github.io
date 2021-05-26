@@ -1,5 +1,5 @@
 ---
-permalink: /havingfun/
+permalink: /hobbies/
 title: "Having Fun"
 excerpt: "General Description of Myself"
 ---
