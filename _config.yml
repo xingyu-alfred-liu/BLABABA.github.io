@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
-title_separator          : ""
+title                    : "Xingyu (Alfred) Liu"
+title_separator          : "Materials Science & Machine Learning (MatML) Portfolio"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Xingyu (Alfred) Liu"
-description              : "Materials Science & Machine Learning (MatML) Portfolio"
+name                     : ""
+description              : ""
 url                      : "https://BLABABA.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "BLABABA/BLABABA.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
