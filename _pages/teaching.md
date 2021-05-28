@@ -1,8 +1,8 @@
 ---
 permalink: /teaching/
+title: Teaching
+excerpt: Teaching
 ---
-
-### Teaching  
 
 **27-100 Engineering the Materials of the Future**  
 Department of Materials Science and Engineering, Fall 2020  
