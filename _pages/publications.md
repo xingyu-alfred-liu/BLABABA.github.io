@@ -4,7 +4,14 @@ title: "Publications"
 excerpt: "Publications"
 ---
 
-#### 2020  
+### 2021  
+
+##### 3D Electron Diffraction Structure Determination of Terrylene, a Promising Candidate for Intermolecular Singlet Fission  
+Herein we demonstrate the prowess of the 3D electron diffraction approach by unveiling the structure of terrylene, the third member in the series of peri-condensed naphthalene analogues, which has eluded structure determination for 65 years. The structure was determined by direct methods using electron diffraction data and corroborated by dispersion-inclusive density functional theory optimizations. Terrylene crystalizes in the monoclinic space group P21/a, arranging in a sandwich-herringbone packing motif, similar to analogous compounds. Having solved the crystal structure, we use many-body perturbation theory to evaluate the excited-state properties of terrylene in the solid-state. We find that terrylene is a promising candidate for intermolecular singlet fission, comparable to tetracene and rubrene.  
+
+Click [here](https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cphc.202100320) to view the full paper.  
+
+### 2020  
 
 ##### Assessing Zethrene Derivatives as Singlet Fission Candidates Based on Multiple Descriptors  
 Singlet fission (SF) is a process where one singlet exciton splits into two triplet excitons. Utilizing SF may potentially increase the efficiency of solar cells beyond the Shockley–Queisser limit. To discover new SF materials, predictive descriptors for SF performance are needed. We consider multiple descriptors to assess several zethrene derivatives as candidate materials for intermolecular SF in the solid state. The descriptors include single molecule multiradical characters, many-body perturbation theory calculations of the thermodynamic driving force for SF and the singlet exciton charge transfer character in crystals, and a kinetic model based on molecular dimers extracted from the crystal structures. The zethrenes are compared to acenes known to exhibit SF with respect to these descriptors. The results indicate that all zethrene and heptazethrene derivatives studied here may exhibit SF. In particular, 7,14-bis(2,4,6-trimethylphenyl)dibenzo[de,mn]naphthacene (Z-T) emerges as a promising candidate. Its SF driving force is higher than tetracene, whose fission process is slightly endoergic, but lower than pentacene. Its singlet exciton charge transfer character is close to pentacene, and its crystal packing leads to a higher SF rate than other zethrene derivatives. Therefore, it may undergo fast SF with high energy efficiency. The approach of considering multiple descriptors may be useful for evaluating additional candidate materials for SF. 
@@ -21,7 +28,7 @@ The efficiency of solar cells may be increased by utilizing photons with energie
 
 Click [here](https://pubs.rsc.org/en/content/articlehtml/2020/tc/d0tc00044b) to view the full paper.
 
-#### 2019
+### 2019
 
 ##### Phenylated Acene Derivatives as Candidates for Intermolecular Singlet Fission
 
@@ -29,7 +36,7 @@ Singlet fission (SF), a spin-conserving process where one singlet exciton is con
 
 Click [here](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.8b12549) to view the full paper.
 
-#### 2018
+### 2018
 
 ##### On the possibility of singlet fission in crystalline quaterrylene
 
@@ -43,7 +50,7 @@ The hysteretic phenomenon commonly exists in the J–V curves of perovskite sola
 
 Click [here](https://pubs.rsc.org/am/content/articlehtml/2018/ra/c8ra04347g) to view the full paper.
 
-#### Before 2018
+### Before 2018
 
 ##### Interwoven Three-Dimensional Architecture of Cobalt Oxide Nanobrush-Graphene@Ni<sub>x</sub>Co<sub>2x</sub>(OH)<sub>6x</sub> for High-Performance Supercapacitors
 
