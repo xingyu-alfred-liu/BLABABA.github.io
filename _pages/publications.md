@@ -4,6 +4,12 @@ title: "Publications"
 excerpt: "Publications"
 ---
 
+### 2022
+##### Finding predictive models for singlet fission by machine learning
+Singlet fission (SF), the conversion of one singlet exciton into two triplet excitons, could significantly enhance solar cell efficiency. Molecular crystals that undergo SF are scarce. Computational exploration may accelerate the discovery of SF materials. However, many-body perturbation theory (MBPT) calculations of the excitonic properties of molecular crystals are impractical for large-scale materials screening. We use the sure-independence-screening-and-sparsifying-operator (SISSO) machine-learning algorithm to generate computationally efficient models that can predict the MBPT thermodynamic driving force for SF for a dataset of 101 polycyclic aromatic hydrocarbons (PAH101). SISSO generates models by iteratively combining physical primary features. The best models are selected by linear regression with cross-validation. The SISSO models successfully predict the SF driving force with errors below 0.2 eV. Based on the cost, accuracy, and classification performance of SISSO models, we propose a hierarchical materials screening workflow. Three potential SF candidates are found in the PAH101 set.
+
+Click [here](https://www.nature.com/articles/s41524-022-00758-y) to view the full paper.  
+
 ### 2021  
 
 ##### 3D Electron Diffraction Structure Determination of Terrylene, a Promising Candidate for Intermolecular Singlet Fission  
