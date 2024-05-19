@@ -4,7 +4,15 @@ title: "Publications"
 excerpt: "Publications"
 ---
 
+### 2024
+
+##### Computational Discovery of Intermolecular Singlet Fission Materials Using Many-Body Perturbation Theory
+Intermolecular singlet fission (SF) is the conversion of a photogenerated singlet exciton into two triplet excitons residing on different molecules. SF has the potential to enhance the conversion efficiency of solar cells by harvesting two charge carriers from one high-energy photon, whose surplus energy would otherwise be lost to heat. The development of commercial SF-augmented modules is hindered by the limited selection of molecular crystals that exhibit intermolecular SF in the solid state. Computational exploration may accelerate the discovery of new SF materials. The GW approximation and Bethe–Salpeter equation (GW+BSE) within the framework of many-body perturbation theory is the current state-of-the-art method for calculating the excited-state properties of molecular crystals with periodic boundary conditions. In this Review, we discuss the usage of GW+BSE to assess candidate SF materials as well as its combination with low-cost physical or machine learned models in materials discovery workflows. We demonstrate three successful strategies for the discovery of new SF materials: (i) functionalization of known materials to tune their properties, (ii) finding potential polymorphs with improved crystal packing, and (iii) exploring new classes of materials. In addition, three new candidate SF materials are proposed here, which have not been published previously.
+
+Click [here](https://pubs.acs.org/doi/full/10.1021/acs.jpcc.4c01340) to view the full paper
+
 ### 2022
+
 ##### Finding predictive models for singlet fission by machine learning
 Singlet fission (SF), the conversion of one singlet exciton into two triplet excitons, could significantly enhance solar cell efficiency. Molecular crystals that undergo SF are scarce. Computational exploration may accelerate the discovery of SF materials. However, many-body perturbation theory (MBPT) calculations of the excitonic properties of molecular crystals are impractical for large-scale materials screening. We use the sure-independence-screening-and-sparsifying-operator (SISSO) machine-learning algorithm to generate computationally efficient models that can predict the MBPT thermodynamic driving force for SF for a dataset of 101 polycyclic aromatic hydrocarbons (PAH101). SISSO generates models by iteratively combining physical primary features. The best models are selected by linear regression with cross-validation. The SISSO models successfully predict the SF driving force with errors below 0.2 eV. Based on the cost, accuracy, and classification performance of SISSO models, we propose a hierarchical materials screening workflow. Three potential SF candidates are found in the PAH101 set.
 
